@@ -1,0 +1,1 @@
+minikube start --driver=docker --ports=31001:31001,31000:31000
